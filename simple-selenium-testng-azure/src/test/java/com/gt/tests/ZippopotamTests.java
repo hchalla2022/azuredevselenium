@@ -29,7 +29,7 @@ public class ZippopotamTests {
 		extent.attachReporter(htmlReporter);
 	}
 
-	@Test(groups = { "apiTest" })
+	@Test(groups = {"apiTest"})
 	public void statusCodeTest() {
 
 		try {
